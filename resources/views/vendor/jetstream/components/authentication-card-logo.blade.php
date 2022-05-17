@@ -1,1 +1,1 @@
-<img src="{{asset("assets/logo/my-zoo-logo.png")}}" alt="MyZoo Logo" width="250">
+<img src="{{asset("img/logo/my-zoo-logo.png")}}" alt="MyZoo Logo" width="250">
